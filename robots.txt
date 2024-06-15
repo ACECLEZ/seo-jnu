@@ -1,0 +1,6 @@
+User-agent: Googlebot
+Disallow: /
+Allow: /index.html
+Allow: /robots.txt
+
+Sitemap: http://www.example.com/sitemap.xml
